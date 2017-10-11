@@ -27,5 +27,5 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-* **Nguyen Duy Khanh** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Nguyen Duy Khanh** - (https://github.com/mrkhanhkhi/)
 
