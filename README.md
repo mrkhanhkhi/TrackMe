@@ -1,22 +1,17 @@
 # TrackMe
 MobileHealth Excercise Test
 
-### Prerequisites
+## Prerequisites
 
 This is an location tracking application based on the excercise test of MobileHealth. It allow user to send the information to server and achieve the location data, then display them as annotaion on the map.
 
-### How to use
+## How to use
 
 This application require username&password for get the data in Wifi Mode and mobile number in Cellular Mode.
 
 There will be a red region in the map which will trigger an alert or local notifications when user enter/exit the region.
 
 Press the "Save Data" button for saving the coordinate to the local and "Load Data" for load them in the right side.
-
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
